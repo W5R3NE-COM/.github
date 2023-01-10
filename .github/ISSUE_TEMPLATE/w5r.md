@@ -1,9 +1,9 @@
 ---
-name: Bug report
+name: W5r
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: ''
+assignees: mhmas
 
 ---
 
